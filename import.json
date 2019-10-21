@@ -2,7 +2,7 @@
    "import": {
       "targetWorkspace": {
          "workspace": {
-            "name": "idsi"
+            "name": "name"
          }
       }
    }
